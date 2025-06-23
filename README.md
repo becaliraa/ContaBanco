@@ -33,18 +33,22 @@ Este projeto está em um único arquivo Java para facilitar a execução.
 1. Clone este repositório:
 ```bash
 git clone https://github.com/becaliraa/ContaBanco.git
+```
 
-2.Navegue até a pasta do projeto:
-
+2. Navegue até a pasta do projeto:
+ ```bash
 cd ContaBanco/src
+```
 
-3.Compile o arquivo Java:
-
+3. Compile o arquivo Java:
+ ```bash
 javac ContaBanco.java
+```
 
 4. Execute o programa:
-
+ ```bash
 java ContaBanco
+```
 
 
 
